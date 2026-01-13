@@ -1,2 +1,2 @@
 # SaaS-Admin-Dashboard
-A modern, mobile-first admin interface for managing users, analytics, and system performance, designed with a clean, glassmorphic UI. It features smooth animations, interactive charts, and light/dark themes to showcase real-world SaaS management workflows.
+A modern, mobile-first admin interface built using React 18, Tailwind CSS, featuring Framer Motion for smooth UI transitions, GSAP for animated KPIs and charts, and Lottie for engaging empty-state and success animations, with full light/dark theme support.
