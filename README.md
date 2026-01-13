@@ -464,7 +464,7 @@ MIT License - feel free to use this project for personal or commercial purposes.
 
 **Developed by**: SHIVAM ITCS  
 **Website**: [shivamitcs.in](https://shivamitcs.in)  
-**Favicon**: [shivamitcs.in/favicon.ico](https://shivamitcs.in/favicon.ico)
+
 
 ---
 
