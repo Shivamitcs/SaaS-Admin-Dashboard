@@ -12,7 +12,25 @@ A modern, interactive SaaS Admin Dashboard built with cutting-edge web technolog
 
 This project is a fully-featured, production-ready SaaS Admin Dashboard showcasing modern web development practices. It features three main pages (Dashboard, User Management, Reports & Settings) with extensive animations, interactive components, and a beautiful UI/UX design.
 
+### 📸 Screenshots
 
+#### Dashboard Overview
+![Dashboard Light Mode](src/data/images/saas-dashboard-light.png)
+*Dashboard in Light Mode*
+
+![Dashboard Dark Mode](src/data/images/saas-dashboard.png)
+*Dashboard in Dark Mode*
+
+#### User Management
+![User Management](src/data/images/saas-user.png)
+*User Management Page with Card-based Layout*
+
+#### Reports & Settings
+![Reports](src/data/images/saas-report.png)
+*Reports & Analytics Page*
+
+![Settings](src/data/images/saas-setting.png)
+*Settings & Configuration Page*
 
 ---
 
@@ -464,7 +482,7 @@ MIT License - feel free to use this project for personal or commercial purposes.
 
 **Developed by**: SHIVAM ITCS  
 **Website**: [shivamitcs.in](https://shivamitcs.in)  
-
+**Favicon**: [shivamitcs.in/favicon.ico](https://shivamitcs.in/favicon.ico)
 
 ---
 
